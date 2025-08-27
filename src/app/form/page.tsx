@@ -97,7 +97,7 @@ const ContactForm = () => {
               <textarea
                  className="form-control fs-5"
                 placeholder="Message"
-                rows="5"
+                rows={5}
                 name="message"
               ></textarea>
             </div>
