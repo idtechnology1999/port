@@ -19,7 +19,7 @@ export default nextConfig;
 
 // # 4. set main branch and connect remote
 // git branch -M main
-// git remote add origin https://github.com/idtechnology1999/web.git
+// git remote add origin https://github.com/idtechnology1999/port.git
 
 // # 5. push
 // git push -u origin main

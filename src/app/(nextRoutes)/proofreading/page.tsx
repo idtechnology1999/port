@@ -214,9 +214,10 @@ const ProofreadingSection = () => {
                   required
                 />
               </div>
+              
               <div className="mb-4">
-  <textarea className="form-control" rows={4} placeholder="Message" />
-</div>
+                  <textarea className="form-control" rows={4} placeholder="Message" />
+                </div>
 
               <div className="mb-4">
                 <small className="text-muted">By submitting, you consent to receive SMS from us.</small>
