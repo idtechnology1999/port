@@ -13,6 +13,7 @@ const nextConfig: NextConfig = {
 export default nextConfig;
 
 
+
 // git init
 // git add .
 // git commit -m "Initial commit"
